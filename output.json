@@ -1,0 +1,66 @@
+{
+    "ex1.html": [
+        {
+            "Href": "/other-page",
+            "Text": "A link to another page"
+        },
+        {
+            "Href": "",
+            "Text": "\n"
+        }
+    ],
+    "ex2.html": [
+        {
+            "Href": "https://www.twitter.com/joncalhoun",
+            "Text": "\n      Check me out on twitter\n      "
+        },
+        {
+            "Href": "",
+            "Text": "\n    "
+        },
+        {
+            "Href": "https://github.com/gophercises",
+            "Text": "\n      Gophercises is on "
+        },
+        {
+            "Href": "",
+            "Text": "\n  "
+        }
+    ],
+    "ex3.html": [
+        {
+            "Href": "#",
+            "Text": "Login "
+        },
+        {
+            "Href": "",
+            "Text": "\n      "
+        },
+        {
+            "Href": "/lost",
+            "Text": "Lost? Need help?"
+        },
+        {
+            "Href": "",
+            "Text": "\n          "
+        },
+        {
+            "Href": "https://twitter.com/marcusolsson",
+            "Text": "@marcusolsson"
+        },
+        {
+            "Href": "",
+            "Text": "), animated by Jon Calhoun (that\u0026#39;s me!), and inspired by the original Go Gopher created by Renee French.\n          "
+        }
+    ],
+    "ex4.html": [
+        {
+            "Href": "/dog-cat",
+            "Text": "dog cat "
+        },
+        {
+            "Href": "",
+            "Text": "\n"
+        }
+    ]
+}
